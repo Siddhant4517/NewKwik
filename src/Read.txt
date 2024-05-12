@@ -1,0 +1,1 @@
+https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=325ffca1342e4518a948519225242633&page=${this.state.page}&pageSize=${this.props.pageSize}

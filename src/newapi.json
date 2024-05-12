@@ -1,0 +1,199 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Taylor Nicioli",
+      "title": "There’s actually no such thing as vegetables. Here’s why you should eat them anyway - CNN",
+      "description": "The term vegetable doesn’t exist botanically. Instead, vegetables are classified as the roots, stems, leaves and flowers of edible plants.",
+      "url": "https://www.cnn.com/2024/05/05/health/what-are-vegetables-nutrients-plants-wellness/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1437818837.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-05-05T07:00:00Z",
+      "content": "Get inspired by a weekly roundup on living well, made simple. Sign up for CNNs Life, But Better newsletter for information and tools designed to improve your well-being.\r\nThe rumors are true: Vegetab… [+4053 chars]"
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": "Nikki Battiste",
+      "title": "Massachusetts detective's affair exposed during investigation into his wife's shooting death - CBS News",
+      "description": "Brian Fanion says he and his wife Amy Fanion had been arguing about his retirement plans when she picked up his service weapon and shot herself. Investigators did not believe his story.",
+      "url": "https://www.cbsnews.com/news/brian-fanion-amy-fanion-westfield-massachusetts-detectives-affair-exposed-shooting-death-murder-trial-48hours/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/05/03/fa7d5ade-5c0b-4446-a6ae-9225c7f609ae/thumbnail/1200x630/2b1a39b53def6da115ff5bd85b64e75b/fanion-amy-brian.jpg?v=1d6c78a71b7b6252b543a329b3a5744d",
+      "publishedAt": "2024-05-05T06:20:28Z",
+      "content": "It was 1 p.m. on May 8, 2018, when Massachusetts State Police detectives arrived at a farmhouse in Westfield. 51-year-old Amy Fanion lay dead in the dining room from a single gunshot wound to the hea… [+36838 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Katherine Donlevy",
+      "title": "US, Australian surfers were likely executed in vicious carjacking in Mexico: report - New York Post ",
+      "description": "“When they tried to get the vehicle, the victims opposed the robbery, the robbers were armed with a firearm and apparently shot the victims.”",
+      "url": "https://nypost.com/2024/05/05/world-news/us-australian-surfers-were-likely-executed-in-vicious-carjacking-in-mexico-report/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/05/newspress-collage-6jvu3vz8g-1714889598527.jpg?quality=75&strip=all&1714875243&w=1024",
+      "publishedAt": "2024-05-05T06:19:00Z",
+      "content": "The American surfers and Australian brothers who were found dead on a surfing vacation in Mexico were likely killed when they refused to hand over their car to a trio of carjackers, according to a re… [+3647 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Dan Heching",
+      "title": "Kenan Thompson is supportive of college protests as long as they don’t involve his daughter in ‘SNL’ cold open - CNN",
+      "description": "“Saturday Night Live” took on one of the top news stories of the past week on its latest episode, when cast members played concerned parents of New York City college kids involved in protests in the cold open over the weekend.",
+      "url": "https://www.cnn.com/2024/05/05/entertainment/saturday-night-live-college-protests-kenan-thompson-cold-open/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-20598877-197090-still.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-05-05T06:12:00Z",
+      "content": "Saturday Night Live took on one of the top news stories of the past week on its latest episode, when cast members played concerned parents of New York City college kids involved in protests in the co… [+2388 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "ROD McGUIRK",
+      "title": "Australia stabbing: Teen armed with knife shot dead by police after attack - The Associated Press",
+      "description": "Australian officials say a 16-year-old boy armed with a knife has been shot dead by police after he stabbed a man in the west coast city of Perth. The incident occurred in the parking lot of a hardware store in suburban Willetton on Saturday night. Western Au…",
+      "url": "https://apnews.com/article/perth-australia-knife-radicalized-police-shot-b64913fe611ec9bda833d56d38107a2d",
+      "urlToImage": "https://dims.apnews.com/dims4/default/34bbde7/2147483647/strip/true/crop/3000x1688+0+157/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F22%2Fc4%2F6c70e3aab8d728cc80cab5c7b914%2Fedcfbb72855842a0a81ef2b9298e3032",
+      "publishedAt": "2024-05-05T06:10:00Z",
+      "content": "MELBOURNE, Australia (AP) A 16-year-old boy armed with a knife was shot dead by police after he stabbed a man in the Australian west coast city of Perth, officials said Sunday.\r\nThe incident occurred… [+3538 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "US campus protests: 'Student arrests will be my final college memory' - BBC.com",
+      "description": "As graduations begin, three students reflect on a college experience bookended by Covid and now campus protests.",
+      "url": "https://www.bbc.com/news/world-us-canada-68946501",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/70A4/production/_133263882_madison3.jpg",
+      "publishedAt": "2024-05-05T05:49:06Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Official Website of the Ultimate Fighting Championship"
+      },
+      "author": null,
+      "title": "UFC 301: Pantoja vs Erceg Prelim Results | Winner Interviews, Highlights And More From Rio de Janeiro - UFC",
+      "description": "See The Fight Results, Watch Post-Fight Interviews With The Prelims Winners And More From UFC 301: Pantoja vs Erceg, Live From Farmasi Arena In Rio de Janeiro, Brazil",
+      "url": "https://www.ufc.com/news/prelim-results-highlights-winner-interviews-ufc-301-pantoja-vs-erceg?language_content_entity=en",
+      "urlToImage": "https://dmxg5wxfqgb4u.cloudfront.net/styles/card/s3/2024-05/050424-Brito-Featured-Prelim-Hero-301.jpg?itok=EnW8qrxs",
+      "publishedAt": "2024-05-05T05:23:14Z",
+      "content": "It was Brazil vs. The World on Saturday at UFC 301 in Rio de Janeiro, and the home team got out to a solid lead through the preliminary card slate.\r\nLed by standout efforts from Alessandro Costa, Mau… [+331 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "Mike Coppinger",
+      "title": "Canelo Alvarez decisions Jaime Munguia in title defense - ESPN",
+      "description": "Canelo Alvarez retained his undisputed super middleweight championship with a unanimous decision win against Jaime Munguia on Saturday night in Las Vegas. The judges scored it 115-113, 117-110 and 116-111 for the Mexican star, who improved to 61-2-2.",
+      "url": "https://www.espn.com/boxing/story/_/id/40085592/canelo-alvarez-too-much-jaime-munguia-title-defense",
+      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0505%2Fr1328691_1296x729_16%2D9.jpg",
+      "publishedAt": "2024-05-05T04:50:00Z",
+      "content": "LAS VEGAS -- The boisterous, surprising support for Jaime Munguia was swiftly extinguished with a patented Canelo Alvarez combination on Saturday, a left hook followed by a right uppercut that plante… [+6453 chars]"
+    },
+    {
+      "source": { "id": null, "name": "SFGate" },
+      "author": "Amy Graff, Gabe Lehman",
+      "title": "It's May and it's dumping rain and snow in Northern California - SFGATE",
+      "description": "A cold front considered robust for May was dumping rain and snow over California Saturday.",
+      "url": "https://www.sfgate.com/weather/article/dumping-rain-snow-northern-california-19439468.php",
+      "urlToImage": "https://s.hdnux.com/photos/01/32/07/41/23623797/3/rawImage.jpg",
+      "publishedAt": "2024-05-05T04:46:55Z",
+      "content": "FILE - A pedestrian uses an umbrella to shield themself during a rainstorm in San Francisco, Calif. on March 28, 2023.\r\nDouglas Zimmerman/SFGATE\r\nLATEST May 4, 9:16 p.m. Eastbound Interstate 80 from … [+4120 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Deadline" },
+      "author": "Armando Tinoco",
+      "title": "Jerry Seinfeld Crashes ‘SNL’ Weekend Update As “A Man Who Did Too Much Press” With A Warning For Ryan Gosling - Deadline",
+      "description": "Jerry Seinfeld crashed Saturday Night Live's Weekend Update segment, and Colin Jost introduced him as \"a man who did too much press.\"",
+      "url": "http://deadline.com/2024/05/jerry-seinfeld-crashes-snl-weekend-update-ryan-gosling-1235904678/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2024/05/jerry-seinfeld-snl.jpg?w=1024",
+      "publishedAt": "2024-05-05T04:46:00Z",
+      "content": "Jerry Seinfeld crashed Saturday Night Live‘s Weekend Update segment, and Colin Jost introduced him as “a man who did too much press.”\r\nThe Seinfeld star has been on a press tour promoting his Netflix… [+1342 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Chuck Culpepper",
+      "title": "In a stunning photo finish, Mystik Dan wins the Kentucky Derby - The Washington Post",
+      "description": "In a photo finish, Mystik Dan edged Sierra Leone and Forever Young in the 150th edition of the Kentucky Derby.",
+      "url": "https://www.washingtonpost.com/sports/2024/05/04/kentucky-derby-mystik-dan-winner-results-photo-finish/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DZ5WQBKB45GYHOLMYKJZ7GVJTI_size-normalized.jpg&w=1440",
+      "publishedAt": "2024-05-05T04:45:00Z",
+      "content": "LOUISVILLE As a riveting gathering of three colts saw their fates converge at the wire of the Kentucky Derby, of all places, and as human emotions prepared to sway based on horse noses, the trio bunc… [+811 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Simone McCarthy",
+      "title": "China’s Xi Jinping is visiting Europe for the first time in five years – his goodwill tour will be an uphill struggle - CNN",
+      "description": "When Chinese leader Xi Jinping arrived in Italy for a state visit in 2019, he was given a lavish welcome, with private tours of Roman landmarks and a dinner serenaded by opera singer Andrea Bocelli, topped with a crowning flourish – Italy’s decision to join X…",
+      "url": "https://www.cnn.com/2024/05/04/china/xi-jinping-europe-china-macron-france-serbia-hungary-intl-hnk/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap19082486386718.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-05-05T04:37:00Z",
+      "content": "Editors Note: Sign up for CNNs Meanwhile in China newsletter which explores what you need to know about the countrys rise and how it impacts the world.\r\nWhen Xi Jinping arrived in Italy for a state v… [+8221 chars]"
+    },
+    {
+      "source": { "id": null, "name": "BBC News" },
+      "author": null,
+      "title": "Israel-Gaza war: Tens of thousands rally for hostage deal as Gaza ceasefire talks continue - BBC.com",
+      "description": "Tens of thousands protest in Tel Aviv and Jerusalem ahead of further ceasefire negotiations in Cairo.",
+      "url": "https://www.bbc.com/news/world-middle-east-68960585",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8D83/production/_133272263_gettyimages-2150936125.jpg",
+      "publishedAt": "2024-05-05T04:02:25Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Minneapolis Star Tribune" },
+      "author": "Chris Hine, Star Tribune",
+      "title": "Anthony Edwards and Wolves beat Nikola Jokic and Nuggets on their home floor - Star Tribune",
+      "description": "The Wolves got 43 points from their All-Star guard and forced Jokic into seven turnovers.",
+      "url": "https://www.startribune.com/anthony-edwards-timberwolves-nikola-jokic-nuggets-game1-nba-playoff-series/600363809/",
+      "urlToImage": "https://arc.stimg.co/startribunemedia/6EWPHOSULRC75GWHKE2XAXDGBI.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces",
+      "publishedAt": "2024-05-05T03:47:00Z",
+      "content": "DENVER Anthony Edwards shared the floor Saturday night with Nikola Jokic, the two-time NBA MVP who is favored to win his third.\r\nHe was in Jokic's Ball Arena, and his Timberwolves were going against … [+5049 chars]"
+    },
+    {
+      "source": { "id": null, "name": "KSL.com" },
+      "author": "https://www.facebook.com/kslcom/",
+      "title": "Look up for the dazzling Eta Aquariid meteor shower Sunday and Monday - KSL.com",
+      "description": "May kicks off with the Eta Aquariid meteor shower, and experts are anticipating a better show than in recent years, according to the American Meteor Society.",
+      "url": "https://www.ksl.com/article/51001882/look-up-for-the-dazzling-eta-aquariid-meteor-shower-sunday-and-monday",
+      "urlToImage": "https://img.ksl.com/slc/2988/298812/29881264.jpg?filter=kslv2/responsive_story_lg",
+      "publishedAt": "2024-05-05T03:43:49Z",
+      "content": "WASHINGTON May kicks off with the Eta Aquariid meteor shower, and experts are anticipating a better show than in recent years, according to the American Meteor Society.\r\nDuring the period when the me… [+2702 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hindustan Times" },
+      "author": "Shishir Gupta",
+      "title": "S Jaishankar nails Justin Trudeau lies over Hardeep Singh Nijjar killing - Hindustan Times",
+      "description": "EAM Jaishankar indicated that all this drama over Nijjar killing had nothing to do with India but was internal minority vote bank politics in poll-bound Canada. | Latest News India",
+      "url": "https://www.hindustantimes.com/india-news/s-jaishankar-nails-justin-trudeau-lies-over-hardeep-singh-nijjar-killing-101714878639177.html",
+      "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/05/05/1600x900/jaishankar_1714878819721_1714878828969.jpeg",
+      "publishedAt": "2024-05-05T03:16:26Z",
+      "content": "New Delhi: External Affairs Minister S Jaishankar has taken on the Justin Trudeau government for literally defaming India over the gunning down of proscribed terrorist Hardeep Singh Nijjar in Surry, … [+3380 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Jim Jones Brawls with Two Men on Airport Escalator, Claims Self-Defense | TMZ - TMZ",
+      "description": "Jim Jones got into a wild fight at the airport, taking on two men at once in wild footage... and, he's claiming he was just trying to defend himself.FOLLOW A...",
+      "url": "https://www.youtube.com/watch?v=wRFLhq8TiDw",
+      "urlToImage": "https://i.ytimg.com/vi/wRFLhq8TiDw/maxresdefault.jpg",
+      "publishedAt": "2024-05-05T02:45:02Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Page Six" },
+      "author": "Tamantha Ryan",
+      "title": "Kendrick Lamar accuses Drake of being a 'pedophile' in his latest diss track, 'Not Like Us': 'Hide your little sister' - Page Six",
+      "description": "“To any bitch that talk to him and they in love / Just make sure you hide your little sister from him,” the Compton emcee rapped on the song.",
+      "url": "https://pagesix.com/2024/05/04/entertainment/kendrick-lamar-accuses-drake-of-being-a-pedophile-in-his-latest-diss-track-not-like-us/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2024/05/81240548.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2024-05-05T01:58:00Z",
+      "content": "He’s not letting up.\r\nKendrick Lamar dropped another diss track against Drake, accusing the Toronto rapper of liking young girls and being an alleged “pedophile.”\r\nIn the track “Not Like Us,” which w… [+3194 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gothamist" },
+      "author": "https://gothamist.com/staff/catalina-gonella",
+      "title": "Mpox cases are spiking again in NYC, health department says - Gothamist",
+      "description": "An average of 36 cases were reported each month since last October.",
+      "url": "https://gothamist.com/news/mpox-cases-are-spiking-again-in-nyc-health-department-says",
+      "urlToImage": "https://cms.prod.nypr.digital/images/344819/fill-1200x650|format-webp|webpquality-85/",
+      "publishedAt": "2024-05-05T01:37:00Z",
+      "content": "New York Citys health department is warning of another increase in local cases of the mpox virus, formerly known as monkeypox, and urging medical professionals to monitor for cases ahead of the summe… [+2276 chars]"
+    }
+  ]
+}
