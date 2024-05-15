@@ -1,8 +1,9 @@
 import React, { useState } from 'react';
 import { Link, NavLink } from 'react-router-dom';
 
-const NavBar = ({ setSearchKeyword }) => {
+const NavBar = ({ setSearchKeyword, setCountry }) => {
   const [searchInput, setSearchInput] = useState('');
+  const [selectedCountry, setSelectedCountry] = useState('in');
 
   const handleSearchOnChange = (event) => {
     setSearchInput(event.target.value);
@@ -11,6 +12,11 @@ const NavBar = ({ setSearchKeyword }) => {
   const handleSearchOnClick = (event) => {
     event.preventDefault();
     setSearchKeyword(searchInput);
+  };
+
+  const handleCountryChange = (countryCode) => {
+    setSelectedCountry(countryCode);
+    setCountry(countryCode);
   };
 
   const clearSearchKeyword = () => {
@@ -52,6 +58,16 @@ const NavBar = ({ setSearchKeyword }) => {
                 <NavLink className="nav-link" to="/technology" onClick={clearSearchKeyword}>Technology</NavLink>
               </li>
             </ul>
+            <div className="dropdown ms-3 mx-3">
+              <button className="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">
+                Country
+              </button>
+              <ul className="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                <li><button className="dropdown-item" onClick={() => handleCountryChange('in')}>India</button></li>
+                <li><button className="dropdown-item" onClick={() => handleCountryChange('us')}>America</button></li>
+                <li><button className="dropdown-item" onClick={() => handleCountryChange('jp')}>Japan</button></li>
+              </ul>
+            </div>
             <form className="d-flex" onSubmit={handleSearchOnClick}>
               <input
                 className="form-control me-2"
@@ -64,6 +80,7 @@ const NavBar = ({ setSearchKeyword }) => {
               />
               <button className="btn btn-outline-success" type="submit">Search</button>
             </form>
+           
           </div>
         </div>
       </nav>

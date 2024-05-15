@@ -37,6 +37,12 @@ const News = ({ country = 'in', category = 'general', apiKey, pageSize = 8, setP
         // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [searchKeyword]);
 
+    useEffect(() => {
+        document.title = `NewsKwik - ${capitalizeFirstLetter(category)}`;
+        updateNews();
+        // eslint-disable-next-line react-hooks/exhaustive-deps
+    }, [country]);
+
     const fetchMoreData = async () => {
         const nextPage = page + 1;
         let url = `https://newsapi.org/v2/top-headlines?country=${country}&category=${category}&apiKey=${apiKey}&page=${nextPage}&pageSize=${pageSize}`;
